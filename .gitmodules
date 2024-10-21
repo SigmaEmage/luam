@@ -1,7 +1,0 @@
-[submodule "luau"]
-	path = luau
-	url = https://github.com/Malte0621/luau.git
-[submodule "Deps/SLikeNet"]
-	path = Deps/SLikeNet
-	url = https://github.com/Malte0621/SLikeNet.git
-	branch = malte0621
