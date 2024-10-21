@@ -1,1 +1,1 @@
-NOTE: this project is made by @Malte0621 and many code in it is skidded. Please do not use it.
+NOTE: this project is made by emage and many code in it is original. Please do use it.
