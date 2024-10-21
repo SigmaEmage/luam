@@ -1,3 +1,15 @@
+# VS
+.vs
+
+# Build
+Debug
+Release
+Out
+*.dir
+
+# Github
+.git
+
 # Prerequisites
 *.d
 
@@ -30,3 +42,5 @@
 *.exe
 *.out
 *.app
+
+out
