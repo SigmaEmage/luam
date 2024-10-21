@@ -1,2 +1,1 @@
-# luam
- Luam (or LuaM) is a roblox lua implementation in the standalone luau, this allows the usage of roblox functions to be emulated and ran thru the CLI.
+NOTE: this project is made by @Malte0621 and many code in it is skidded. Please do not use it.
